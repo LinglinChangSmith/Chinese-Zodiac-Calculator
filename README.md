@@ -1,7 +1,7 @@
 # Chinese-Zodiac-Calculator
 Latest Update: March 29, 2023
 
-🇨🇳 All images used in this application are created by me.
+🇨🇳 All images used in this application are created by Linglin Chang.
 
 🇨🇳 GUI is created with Tkinter.
 
